@@ -1,10 +1,10 @@
-### Домашнее задание к занятию 1.3 Потоки ввода-вывода. Работа с файлами. Сериализация
+### Р”РѕРјР°С€РЅРµРµ Р·Р°РґР°РЅРёРµ Рє Р·Р°РЅСЏС‚РёСЋ 1.3 РџРѕС‚РѕРєРё РІРІРѕРґР°-РІС‹РІРѕРґР°. Р Р°Р±РѕС‚Р° СЃ С„Р°Р№Р»Р°РјРё. РЎРµСЂРёР°Р»РёР·Р°С†РёСЏ
 
-Список выполненных задач и соответствующих классов:
+РЎРїРёСЃРѕРє РІС‹РїРѕР»РЅРµРЅРЅС‹С… Р·Р°РґР°С‡ Рё СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓСЋС‰РёС… РєР»Р°СЃСЃРѕРІ:
 
-   1. Установка
-   		* src/Main.java
-   2. Сохранение
-   		* src/game/SaveProgress.java
-   3. Загрузка (со звездочкой *)
-   		* src/game/OpenProgress.java
+   1. РЈСЃС‚Р°РЅРѕРІРєР°
+   		* [src/Main.java](https://github.com/Danilets/homework_1.3/blob/master/src/Main.java)
+   2. РЎРѕС…СЂР°РЅРµРЅРёРµ
+   		* [src/game/SaveProgress.java](https://github.com/Danilets/homework_1.3/blob/master/src/game/SaveProgress.java)
+   3. Р—Р°РіСЂСѓР·РєР° (СЃРѕ Р·РІРµР·РґРѕС‡РєРѕР№ *)
+   		* [src/game/OpenProgress.java](https://github.com/Danilets/homework_1.3/blob/master/src/game/OpenProgress.java)
